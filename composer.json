@@ -1,0 +1,17 @@
+{
+    "name": "kwaye/my-framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rodcoding",
+            "email": "rodcoding@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^6.0"
+    }
+}
